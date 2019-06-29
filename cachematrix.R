@@ -1,4 +1,4 @@
-## Bhavesh Patel Sept 2015
+## Bhavesh Patel Sept 2019
 ## The pair of functions below allow caching of A matrix inverse.
 
 ## makeCacheMatrix constructs and returns a  list of functions about an input matrix, and it's inverse
